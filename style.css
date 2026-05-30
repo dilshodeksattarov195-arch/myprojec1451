@@ -1,0 +1,7 @@
+body { background: #f731d8; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 48px; display: flex; }
+.block-order-0 { color: #21445b; font-size: 20px; margin-bottom: 5px; }
+.block-cluster-1 { color: #bad201; font-size: 12px; margin-bottom: 5px; }
+.block-auth-2 { color: #3ee56e; font-size: 18px; margin-bottom: 5px; }
+.block-router-3 { color: #c64640; font-size: 13px; margin-bottom: 5px; }
+.block-cart-4 { color: #5a37be; font-size: 20px; margin-bottom: 5px; }
